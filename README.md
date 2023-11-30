@@ -31,3 +31,8 @@ brew --version
   ```
 brew install gcc
   ```
+if you still have the same proble you can complie with
+```
+clang for c
+clang++ for cpp
+```
